@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "zh-CN"
-title = "爱分享导航站"
+title = "项目资源站"
 theme = "hugo-webstack"
 
 #true:允许大写字母url路径，false:将url路径转换成小写
@@ -11,7 +11,7 @@ copyright = "afx"
 
 #网站信息，不显示，仅供搜索引擎参考
 [params]
-  keywords = "网址导航,webstack,hugo,vpn,科学上网，免费节点，爱分享，科技共享"
+  keywords = "网址导航,webstack,hugo,vpn,科学上网，免费节点，自媒体工具，新人免费分享，付费项目课程，"
   description = "Webstack Hugo版主题,网址导航"
 
 #是否开启搜索栏，true开启，false关闭
